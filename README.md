@@ -1,1 +1,1 @@
-I cover the basic python syntax 
+Data Mining Lab
